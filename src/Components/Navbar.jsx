@@ -4,7 +4,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { mobile } from "../../src/responsive";
-import Register from "../Pages/Register";
 
 const Container = styled.div`
   height: 60px;
